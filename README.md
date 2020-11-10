@@ -1,11 +1,10 @@
 # Capstone---PGA-Tour-Analysis
 Coursera Capstone - Final Project
 
-This is the repository for my Capstone Project.
+PGA Tour Analysis - Coursera Capstone
 
-Please note - Instead of using foursquare data, I drew inspiration from the sample report shown on Coursera - Predicting NBA players improvement.
-Along a smilar vein, my report will be looking at PGA Tour data, and will be trying to pick out elite golfers based on tour stats.
+This is the final project in IBM's Introduction to Data Science. 
 
-Initial submission contains only a Description of the problem, and a Description of the data.
+Using a kaggle dataset, this analysis dives into the metrics of golf. The dataset contains statistics from players on the PGA Tour between 2010 and 2018. In this report, we introduce the topic and the problem, explore the dataset and visualize correlations, and finally build a Linear Regression model as a predictor of success. The target audience of this report is large sports or Golf brands, such as Nike or Taylormade, as they search for their next PGA pro to sponsor. Studies have shown that athletes can have a tremendous effect on product sales, and brands are always looking for the top players to sponsor. This analysis will also have relevance to amateur golfers trying to improve their game, or even fans of the sport. 
 
-Hope you enjoy! Thanks
+Hope you enjoy
